@@ -1,13 +1,13 @@
 
 # 💫 About Me:
 <h1>Hi 👋, I'm Bhim Raj Bhandari</h1>
-<h3>A passionate full stack developer from Nepal</h3>
+<h3>A passionate Java Backend developer from Nepal</h3>
 
 - 🔭 I’m currently working on [MercuryConstruction](https://www.mercuryconstruction.com.np/)
 
-- 🌱 I’m currently learning **PERN**
+- 🌱 I’m currently learning **JAVA**
 
-- 💬 Ask me about **react,gsap,MERN**
+- 💬 Ask me about **Spring Boot**
 
 - 📫 How to reach me **infobrb04@gmail.com**
 
