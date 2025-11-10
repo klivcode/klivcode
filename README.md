@@ -1,18 +1,22 @@
 
 # 💫 About Me:
 
-<h1>Hi 👋, I'm Bhim Raj Bhandari</h1>
-<h3>A passionate Java Developer from Nepal</h3>
+<h1 align="center">Hi 👋, I'm BHIM RAJ BHANDARI</h1>
+<h3 align="center">A Passionate Java Backend | Desktop | Web Developer | UI/UX Enthusiast</h3>
 
-- 🔭 I’m currently working on [Krishi Marga]
-
-- 🌱 I’m currently learning **JFX**
-
-- 💬 Ask me about **Java | SpringBoot | JavaFx**
-
-- 📫 How to reach me **infobrb04@gmail.com**
+- 🔭 I’m currently working on **a Library Management System (Spring Boot + JavaFX)**  
+- 🌱 I’m currently learning **Spring Security, RESTful APIs, and Advanced JavaFX UI Design**  
+- 💬 Ask me about **Java, Spring Boot, JavaFX, Python, Flask, or UI/UX Design**  
+- ⚡ Fun fact: **I enjoy building both functional and beautiful interfaces**  
+- 📫 How to reach me: **[infobrb04@gmail.com]**  
+- 🧠 Exploring: **Full-Stack App Integration (Spring Boot + React/Angular + PostgreSQL/MySQL)**  
 
 <br>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=james&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
+</p>
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:infobrb04@gmail.com) 
