@@ -2,7 +2,7 @@
 # 💫 About Me:
 
 <h1>Hi 👋, I'm Bhim Raj Bhandari</h1>
-<h3>A passionate Java Backend developer from Nepal</h3>
+<h3>A passionate Java Developer from Nepal</h3>
 
 - 🔭 I’m currently working on [Krishi Marga]
 
