@@ -85,14 +85,11 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=radical&count_private=true&line_height=27)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?klivcode=klivcode&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=radical)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=radical&date_format=%5BY-%5Dm-%5Bd%5D)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github-compact)
-
-![Contribution Chart](https://ghchart.rshah.org/klivcode)
-
 
 
 
