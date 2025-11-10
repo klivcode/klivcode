@@ -81,51 +81,22 @@
 ---
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=klivcode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-<div align="center">
-
-<!-- 🔝 Top Contributed Repos (Full Width) -->
-<h3>🔝 Top Contributed Repositories</h3>
-
-![](https://github-contributor-stats.vercel.app/api?username=klivcode&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
-
----
-
-<!-- 📈 Stats Table (Compact and Centered) -->
-<table>
-  <tr>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=github_dark_dimmed&langs_count=6" alt="Top Languages" width="100%"/>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=klivcode&theme=github_dark_dimmed&hide_border=false&date_format=M%20j%20%5B-%5D%20Y&include_all_commits=true&count_private=true" alt="GitHub Streak" width="100%"/>
-    </td>
-    <td width="33%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=github_dark_dimmed&count_private=true&include_all_commits=true&line_height=27" alt="GitHub Stats" width="100%"/>
-    </td>
-  </tr>
-</table>
-
-</div>
-
+![](https://github-profile-trophy.vercel.app/?username=klivcode&theme=github_dark_dimmed&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=USERNAME&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=klivcode&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
 
 ## 📊 GitHub Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=github_dark_dimmed)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=github_dark_dimmed)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=USERNAME&theme=github_dark_dimmed&hide_border=false&date_format=M%20j%20%5B-%5D%20Y&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klivcode&theme=github_dark_dimmed&hide_border=false&date_format=M%20j%20%5B-%5D%20Y&include_all_commits=true&count_private=true) </br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=27)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=27)
 
 ---
 
