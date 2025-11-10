@@ -80,6 +80,15 @@
 
 ---
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=klivcode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+---
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=klivcode&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -89,23 +98,12 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=github_dark_dimmed)
 
-![Activity Graph](https://github-readme-activity-graph-codedev98.vercel.app/graph?username=klivcode&theme=github-dark-dimmed)
-
-
----
-
-![](https://github-readme-stats.vercel.app/api?username=klivcode&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-
-![](https://nirzak-streak-stats.vercel.app/?user=klivcode&theme=blue_navy&hide_border=false)<br/>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github_dark_dimmed&hide_border=false&area=true)
 
 
 
 ---
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=klivcode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ---
 
@@ -114,10 +112,7 @@
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=klivcode&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=klivcode&icon=2&color=13)](https://visitcount.itsvg.in)
 
 ---
