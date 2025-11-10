@@ -80,6 +80,37 @@
 
 ---
 
+<div align="left">
+
+<!-- 🧠 Overall Stats & 🔥 Streak Side by Side -->
+<table>
+<tr>
+<td>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true)
+
+</td>
+<td>
+  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klivcode&theme=blue_navy&hide_border=false&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=true&count_private=true)
+
+</td>
+</tr>
+</table>
+
+<!-- 🗣️ Top Languages -->
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&theme=blue_navy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<!-- 🧩 Top Contributed Repositories -->
+![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=klivcode&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+
+<!-- 📈 Contribution Graph -->
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github_dark_dimmed&hide_border=false&area=true)
+
+</div>
+
+
+---
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=27)
