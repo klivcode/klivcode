@@ -88,7 +88,8 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=github_dark_dimmed&date_format=%5BY-%5Dm-%5Bd%5D)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github_dark_dimmed)
+![Activity Graph](https://github-readme-activity-graph-codedev98.vercel.app/graph?username=klivcode&theme=github-dark-dimmed)
+
 
 ---
 
@@ -97,6 +98,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=klivcode&theme=blue_navy&hide_border=false)<br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=github_dark_dimmed&hide_border=false&date_format=%5BY-%5Dm-%5Bd%5D&include_all_commits=true&count_private=true)
 
 ---
 
