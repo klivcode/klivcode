@@ -94,23 +94,14 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=github_dark_dimmed)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=github_dark_dimmed&hide_border=false&date_format=%5BY-%5Dm-%5Bd%5D&include_all_commits=true&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klivcode&theme=github_dark_dimmed&hide_border=false&date_format=M%20j%20%5B-%5D%20Y&include_all_commits=true&count_private=true)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=27)
-
 
 ---
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=klivcode&icon=2&color=13" alt="Profile Visit Count">
-  </a>
-</p>
 
 ---
 
