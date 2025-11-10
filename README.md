@@ -98,7 +98,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=github_dark_dimmed)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github_dark_dimmed&hide_border=false&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github_dark_dimmed)
 
 
 
