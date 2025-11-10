@@ -1,8 +1,8 @@
 
 # 💫 About Me:
 
-<h1 align="center">Hi 👋, I'm BHIM RAJ BHANDARI</h1>
-<h3 align="center">A Passionate Java Backend | Desktop | Web Developer | UI/UX Enthusiast</h3>
+<h1 align="left">Hi 👋, I'm BHIM RAJ BHANDARI</h1>
+<h3 align="left">A Passionate Java Backend | Desktop | Web Developer | UI/UX Enthusiast</h3>
 
 - 🔭 I’m currently working on **a Library Management System (Spring Boot + JavaFX)**  
 - 🌱 I’m currently learning **Spring Security, RESTful APIs, and Advanced JavaFX UI Design**  
@@ -12,11 +12,10 @@
 - 🧠 Exploring: **Full-Stack App Integration (Spring Boot + React/Angular + PostgreSQL/MySQL)**  
 
 <br>
-
-<p align="center">
+<!--  <p align="left">
   <img src="https://komarev.com/ghpvc/?username=james&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
 </p>
-
+  -->
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:infobrb04@gmail.com) 
@@ -80,6 +79,20 @@
 </td>
 </tr>
 </table>
+
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=radical&count_private=true&line_height=27)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?klivcode=USERNAME&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=radical&date_format=%5BY-%5Dm-%5Bd%5D)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github-compact)
+
+![Contribution Chart](https://ghchart.rshah.org/klivcode)
+
 
 
 
