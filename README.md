@@ -96,8 +96,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=klivcode&theme=github_dark_dimmed&hide_border=false&date_format=M%20j%20%5B-%5D%20Y&include_all_commits=true&count_private=true) </br>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&count_private=true&include_all_commits=true&cache_seconds=1800)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=27)
 
 ---
 
