@@ -86,7 +86,7 @@
 ---
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=klivcode&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=klivcode&limit=5&theme=github_dark_dimmed&combine_all_yearly_contributions=true)
 
 ---
 
@@ -106,7 +106,11 @@
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=klivcode&label=Profile+Visits&color=7&icon=5)](https://visitcount.itsvg.in)
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=klivcode&icon=2&color=13" alt="Profile Visit Count">
+  </a>
+</p>
 
 ---
 
