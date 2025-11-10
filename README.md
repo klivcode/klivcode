@@ -1,115 +1,75 @@
 
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm James</h1>
+<h3 align="center">💻 Java Backend & Desktop Developer | 🎨 UI/UX Enthusiast | ☁️ Cloud Learner</h3>
 
-<h1 align="left">Hi 👋, I'm BHIM RAJ BHANDARI</h1>
-<h3 align="left">A Passionate Java Backend | Desktop | Web Developer | UI/UX Enthusiast</h3>
+---
 
-- 🔭 I’m currently working on **a Library Management System (Spring Boot + JavaFX)**  
-- 🌱 I’m currently learning **Spring Security, RESTful APIs, and Advanced JavaFX UI Design**  
-- 💬 Ask me about **Java, Spring Boot, JavaFX, Python, Flask, or UI/UX Design**  
-- ⚡ Fun fact: **I enjoy building both functional and beautiful interfaces**  
-- 📫 How to reach me: **[infobrb04@gmail.com]**  
-- 🧠 Exploring: **Full-Stack App Integration (Spring Boot + React/Angular + PostgreSQL/MySQL)**  
+## 💫 About Me
 
-<br>
-<!--  <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=james&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views" />
-</p>
-  -->
+- 🔭 I’m currently working on **Library Management System (Spring Boot + JavaFX)**
+- 🌱 I’m currently learning **Spring Security, RESTful APIs, and UI/UX Design in Figma**
+- 💬 Ask me about **Java, Spring Boot, Flask, JavaFX, or API Integration**
+- ⚡ Fun fact: **I enjoy designing and coding interactive desktop apps**
+- 📫 How to reach me: **[your-email@example.com]**
+- 🌐 Portfolio: _Coming Soon_
 
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:infobrb04@gmail.com) 
+---
 
+## 💻 Desktop & Backend Development Stack
 
-## 🧠 Tech Stack Overview
-
-<table>
-<tr>
-<td>
-
-### 💻 Desktop & Backend
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Scene Builder](https://img.shields.io/badge/Scene%20Builder-%2300A4E4.svg?style=for-the-badge&logo=javafx&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Flask](https://img.shields.io/badge/Flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 
-### 🗄️ Database
+---
+
+## 🗄️ Database
+
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
-### ⚙️ Other Languages
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![AssemblyScript](https://img.shields.io/badge/AssemblyScript-%23000000.svg?style=for-the-badge&logo=assemblyscript&logoColor=white)
-![OpenGL](https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl)
+---
 
-</td>
-<td>
+## 🎨 Design & Frontend
 
-### 🎨 Frontend & Design
+![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![UI/UX](https://img.shields.io/badge/UI%2FUX%20Design-%23000000.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![UI/UX Design](https://img.shields.io/badge/UI%2FUX%20Design-%23000000.svg?style=for-the-badge&logo=adobecreativecloud&logoColor=white)
-![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### ☁️ Cloud & Deployment
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+---
 
-### 🛠️ Tools & IDEs
+## 🛠️ Tools & IDEs
+
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000.svg?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Dev-C++](https://img.shields.io/badge/Dev--C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Code::Blocks](https://img.shields.io/badge/Code::Blocks-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dev C++](https://img.shields.io/badge/Dev%20C++-%2300599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Code::Blocks](https://img.shields.io/badge/Code::Blocks-%23E34F26.svg?style=for-the-badge&logo=codeblocks&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
 
-</td>
-</tr>
-</table>
-
+---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=radical&count_private=true&line_height=27)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=radical)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=radical&date_format=%5BY-%5Dm-%5Bd%5D)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github-compact)
-
-
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=klivcode&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=klivcode&theme=blue_navy&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=klivcode&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=klivcode&limit=5&theme=blue_navy&combine_all_yearly_contributions=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=tokyonight&count_private=true&line_height=27)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=tokyonight&date_format=%5BY-%5Dm-%5Bd%5D)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=tokyo-night)
+![Contribution Chart](https://ghchart.rshah.org/klivcode)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=klivcode&icon=2&color=13)](https://visitcount.itsvg.in)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 
-![snake gif](https://github.com/klivcode/klivcode/blob/output/snake.svg)
- 
+
