@@ -1,6 +1,6 @@
 
-<h1 align="center">Hi 👋, I'm James</h1>
-<h3 align="center">💻 Java Backend & Desktop Developer | 🎨 UI/UX Enthusiast | ☁️ Cloud Learner</h3>
+<h1 align="left">Hi 👋, I'm James</h1>
+<h3 align="left">💻 Java Backend & Desktop Developer | 🎨 UI/UX Enthusiast | ☁️ Cloud Learner</h3>
 
 ---
 
@@ -66,10 +66,5 @@
 ![Contribution Chart](https://ghchart.rshah.org/klivcode)
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
 
 
