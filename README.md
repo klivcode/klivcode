@@ -59,10 +59,10 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=tokyonight&count_private=true&line_height=27)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=tokyonight&date_format=%5BY-%5Dm-%5Bd%5D)
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=tokyo-night)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=klivcode&show_icons=true&theme=github_dark_dimmed&count_private=true&line_height=27)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=klivcode&layout=compact&theme=github_dark_dimmed)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=klivcode&theme=github_dark_dimmed&date_format=%5BY-%5Dm-%5Bd%5D)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=klivcode&theme=github_dark_dimmed)
 ![Contribution Chart](https://ghchart.rshah.org/klivcode)
 
 ---
