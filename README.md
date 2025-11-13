@@ -11,7 +11,7 @@
 - 💬 Ask me about **Java, Spring Boot, JavaFX**
 - ⚡ Fun fact: **I enjoy designing and coding interactive desktop apps and Web apps**
 - 📫 How to reach me: **[infobrb04@gmail.com]**
-- 🌐 Portfolio: _Coming Soon_
+- 🌐 Portfolio: _Coming Soon
 
 ---
 
