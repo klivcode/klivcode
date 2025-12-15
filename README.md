@@ -1,4 +1,4 @@
-
+why
 <h1 align="left">Hi 👋, I'm BHIM RAJ BHANDARI </h1>
 <h3 align="left">💻 Java Backend | Desktop  & Web Developer | 🎨 UI/UX Enthusiast </h3>
 
@@ -108,4 +108,3 @@
 ![snake gif](https://github.com/klivcode/klivcode/blob/output/snake.svg)
 
 ---
-
