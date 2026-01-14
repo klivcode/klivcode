@@ -12,7 +12,6 @@
 - ⚡ Fun fact: **I enjoy designing and coding interactive desktop apps and Web apps**
 - 📫 How to reach me: **[infobrb04@gmail.com]**
 - 🌐 Portfolio: _Coming Soon
-
 ---
 
 ## 💻 Desktop & Backend Development Stack
