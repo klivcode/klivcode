@@ -8,7 +8,7 @@
 ## 💫 About Me
 
 - 🔭 I’m currently working on **JFX (Spring Boot + SpringAI)**
-- 🌱 I’m currently learning **Microservices/SpringAI/Flutter**
+- 🌱 I’m currently learning **Microservices/SpringAI/ASP.NET**
 - 💬 Ask me about **Java, Spring Boot, JavaFX**
 - ⚡ Fun fact: **I enjoy designing and coding interactive desktop apps and Web apps**
 - 📫 How to reach me: **[infobrb04@gmail.com]**
